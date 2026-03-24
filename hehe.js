@@ -9,3 +9,22 @@ func(123);
 x.forEach(func);
 
 console.log("xin chào mọi người tôi là dãy {x}");
+
+asddfasdfasdf
+
+
+asddfasdfasdfasd
+f
+asf
+d
+asdf
+a
+sdf
+a
+defaultdsf
+as
+df
+asd
+f
+asd
+fasf
