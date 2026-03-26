@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@growthbook/growthbook": "^1.6.5"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.5.0",
+    "@commitlint/config-conventional": "^20.5.0"
+  }
+}
