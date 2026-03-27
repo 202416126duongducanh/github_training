@@ -1,9 +1,4 @@
-var x = [1,2,3,4];
-console.log(x);
+const user = { name: "Anh", age: 20 };
 
-const func = (val) => {
-    console.log(val);
-}
-
-func(123);
-x.forEach(func);
+const { name, age } = user;
+console.log(name, age);
