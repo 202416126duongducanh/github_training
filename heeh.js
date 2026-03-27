@@ -5,5 +5,3 @@ const func = (val) => {
     console.log(val);
 }
 
-func(123);
-x.forEach(func);
