@@ -1,6 +1,9 @@
-// Đoạn code A trên nhánh master
-console.log("Toi la Master, toi thich mau xanh");
-adfasfd
+
+// Đoạn code B trên nhánh patch-1
+console.log("Toi la Patch-1, toi thich mau do");
+a
+sdfasdf
+
 
 ádf
 ád
@@ -9,3 +12,4 @@ fasd
 fasd
 f
 ádf
+
